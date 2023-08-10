@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'XY',
-  author: '无休假期',
+  title: '日常记录',
+  author: '江河故人',
   email: 'hadadreammm@gmail.com',
   link: 'https://ainotion.vercel.app',
   description: '你的好邻居',
