@@ -1,9 +1,9 @@
 const BLOG = {
-  title: '备忘录',
+  title: 'XY',
   author: '无休假期',
   email: 'hadadreammm@gmail.com',
   link: 'https://ainotion.vercel.app',
-  description: '只是路过',
+  description: '你的好邻居',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
